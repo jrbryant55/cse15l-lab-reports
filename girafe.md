@@ -1,7 +1,7 @@
 *huhuhuh*
 **huhuhhuhuh**
-# oogga booga
-## ungaga bunga
+# giraffe 
+## hippo
 [google](https://www.google.com/?client=safari)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Huskiesatrest.jpg/196px-Huskiesatrest.jpg)
@@ -13,7 +13,7 @@
 * booga
 
 1. unga
-2. booga
+2. ooga
 3. bunga
 
 ---
