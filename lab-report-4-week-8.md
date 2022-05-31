@@ -2,6 +2,7 @@
 ## Markdown-parse Repositories
 1. [My Markdown](https://github.com/jrbryant55/markdown-parser)
 2. [Reviewed Markdown](https://github.com/bchoUCSD/markdown-parser)
+
 ---
 # Snippet 1
 Expected: 
